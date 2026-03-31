@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260331152857VLIE67</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026033115285705BX3H</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SA: Luna, la elefanta valiente</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Alba Delgado Díaz</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>SA: Luna, la elefante valiente</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1774963726219</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnenkobl-u42qdqc7e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SA: Luna, la elefanta valiente</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SA: Luna, la elefanta valiente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SA: Luna, la elefanta valiente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SA: Luna, la elefanta valiente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnenkobl-u42qdqc7e</odePageId>
+      <odeBlockId>block-1774874391506-wm74chgil</odeBlockId>
+      <blockName>SA: Luna, la elefanta valiente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnenkobl-u42qdqc7e</odePageId>
+          <odeBlockId>block-1774874391506-wm74chgil</odeBlockId>
+          <odeIdeviceId>idevice-1774874391503-j6u3cco8e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">"Luna, la elefanta valiente" es una situación de aprendizaje en la que investigaremos sobre el apasionante mundo de los elefantes. Esta pensada para desarrollarse de una manera lúdica y motivadora que garantizará el desarrollo integral del alumnado, siempre aprendiendo desde un punto de vista divertido.</p>
+<p style="text-align: justify;">Está destinada al alumnado de 3 y 5 años (1º y 3º nivel de Educación Infantil), se trabajará de una manera globalizada desde el conjunto de las tres áreas. </p>
+<p style="text-align: justify;">La SA cuenta con una duración aproximada de 10 sesiones ya que hay que tener en cuenta que debemos programar de una manera flexible pudiendo hacer frente a las posibilidades dificultades que pueden surgir en el día a día del aula.</p>
+<p style="text-align: justify;">Esta SA se compone de un conjunto de tareas y actividades en las que se van emplear diferentes agrupamientos (individual, por parejas, pequeño y gran grupo), diferentes metodologías activas, diferentes espacios (aula de referencia, biblioteca, sala de radio) y un material variado. Sin olvidar el empleo de herramientas digitales como Canva.</p>
+<p style="text-align: justify;">Al finalizar la situación de aprendizaje el alumnado obtendrá dos productos finales por un lado, una infografía en la que podrán contrastar lo que han aprendido y, por otro lado, la creación de un podcast.</p>
+<p style="text-align: justify;">  </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774874391503-j6u3cco8e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">\"Luna, la elefanta valiente\" es una situación de aprendizaje en la que investigaremos sobre el apasionante mundo de los elefantes. Esta pensada para desarrollarse de una manera lúdica y motivadora que garantizará el desarrollo integral del alumnado, siempre aprendiendo desde un punto de vista divertido.</p>\n<p style=\"text-align: justify;\">Está destinada al alumnado de 3 y 5 años (1º y 3º nivel de Educación Infantil), se trabajará de una manera globalizada desde el conjunto de las tres áreas. </p>\n<p style=\"text-align: justify;\">La SA cuenta con una duración aproximada de 10 sesiones ya que hay que tener en cuenta que debemos programar de una manera flexible pudiendo hacer frente a las posibilidades dificultades que pueden surgir en el día a día del aula.</p>\n<p style=\"text-align: justify;\">Esta SA se compone de un conjunto de tareas y actividades en las que se van emplear diferentes agrupamientos (individual, por parejas, pequeño y gran grupo), diferentes metodologías activas, diferentes espacios (aula de referencia, biblioteca, sala de radio) y un material variado. Sin olvidar el empleo de herramientas digitales como Canva.</p>\n<p style=\"text-align: justify;\">Al finalizar la situación de aprendizaje el alumnado obtendrá dos productos finales por un lado, una infografía en la que podrán contrastar lo que han aprendido y, por otro lado, la creación de un podcast.</p>\n<p style=\"text-align: justify;\">  </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnenkoby-oihzspx7c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnenkoby-oihzspx7c</odePageId>
+      <odeBlockId>block-1774877368130-80ukrnysp</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnenkoby-oihzspx7c</odePageId>
+          <odeBlockId>block-1774877368130-80ukrnysp</odeBlockId>
+          <odeIdeviceId>idevice-1774877368125-tb382w71j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Con el trabajo del centro de interés de los elefantes se busca favorecer la imaginación, la socialización, la autonomía, la creatividad y las habilidades cognitivas y afectivas del alumnado. Para ello, se desarrollarán actividades que fomenten y favorezcan el trabajo en equipo, el compañerismo y la cooperación, el desarrollo del juego simbólico y el respeto por las diferencias.</p>
+<p style="text-align: justify;">Una situación de aprendizaje que nos permitirá acercarnos a retos del siglo XXI como: el trabajo en equipo, el uso de una manera ética y eficaz de las nuevas tecnologías, fomentar la igualdad de género, proteger el medio ambiente y la vida animal, entre otros.</p>
+<p style="text-align: justify;">A su vez, se favorece el logro de Objetivos del Desarrollo Sostenible propuestos en la agenda 2030 como:</p>
+<ul>
+<li style="text-align: justify;"><strong>ODS 3: salud y bienestar</strong>: mediante la adquisición de hábitos saludables. </li>
+<li style="text-align: justify;"><strong>ODS 4: educación de calidad</strong>: atención a las diferencias individuales garantizando una educación inclusiva y equitativa.</li>
+<li style="text-align: justify;"><strong>ODS 5: igualdad de género: </strong>descubriendo las aportaciones de mujeres en la temática, empleando grupos heterogéneos y desarrollando las actividades de una manera coeducativa.</li>
+<li style="text-align: justify;"><strong>ODS 16: paz, justicia e instituciones sólidas</strong>: favoreciendo el respeto, el rechazo de la violencia, fomentando valores cívicos, así como la resolución pacífica de los conflictos.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774877368125-tb382w71j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Con el trabajo del centro de interés de los elefantes se busca favorecer la imaginación, la socialización, la autonomía, la creatividad y las habilidades cognitivas y afectivas del alumnado. Para ello, se desarrollarán actividades que fomenten y favorezcan el trabajo en equipo, el compañerismo y la cooperación, el desarrollo del juego simbólico y el respeto por las diferencias.</p>\n<p style=\"text-align: justify;\">Una situación de aprendizaje que nos permitirá acercarnos a retos del siglo XXI como: el trabajo en equipo, el uso de una manera ética y eficaz de las nuevas tecnologías, fomentar la igualdad de género, proteger el medio ambiente y la vida animal, entre otros.</p>\n<p style=\"text-align: justify;\">A su vez, se favorece el logro de Objetivos del Desarrollo Sostenible propuestos en la agenda 2030 como:</p>\n<ul>\n<li style=\"text-align: justify;\"><strong>ODS 3: salud y bienestar</strong>: mediante la adquisición de hábitos saludables. </li>\n<li style=\"text-align: justify;\"><strong>ODS 4: educación de calidad</strong>: atención a las diferencias individuales garantizando una educación inclusiva y equitativa.</li>\n<li style=\"text-align: justify;\"><strong>ODS 5: igualdad de género: </strong>descubriendo las aportaciones de mujeres en la temática, empleando grupos heterogéneos y desarrollando las actividades de una manera coeducativa.</li>\n<li style=\"text-align: justify;\"><strong>ODS 16: paz, justicia e instituciones sólidas</strong>: favoreciendo el respeto, el rechazo de la violencia, fomentando valores cívicos, así como la resolución pacífica de los conflictos.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnenkoc0-9s91z9ufi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnenkoc0-9s91z9ufi</odePageId>
+      <odeBlockId>block-1774878408736-hwvo8nggc</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnenkoc0-9s91z9ufi</odePageId>
+          <odeBlockId>block-1774878408736-hwvo8nggc</odeBlockId>
+          <odeIdeviceId>idevice-1774878408730-rugkkfa20</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">A continuación, se detalla la relación de los elementos curriculares abordados a lo largo de la situación de aprendizaje "Luna, la elefanta valiente.</p>
+<p style="text-align: center;"><em>ÁREA 1. CRECIMIENTO EN ARMONÍA</em></p>
+<table border="1" style="width: 99.9681%;">
+<tbody>
+<tr>
+<td style="width: 33.3224%; text-align: center;"><strong>Competencias específicas</strong></td>
+<td style="width: 33.3224%; text-align: center;"><strong>Competencias clave</strong></td>
+<td style="width: 33.3233%; text-align: center;"><strong>criterios de evaluación</strong></td>
+</tr>
+<tr>
+<td style="width: 33.3224%; text-align: center;">CE 2</td>
+<td style="width: 33.3224%; text-align: center;">CPSAA, CCL</td>
+<td style="width: 33.3233%; text-align: center;">2.1</td>
+</tr>
+<tr>
+<td style="width: 33.3224%; text-align: center;">CE 3</td>
+<td style="width: 33.3224%; text-align: center;">CPSAA, CE</td>
+<td style="width: 33.3233%; text-align: center;">3.1</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: justify;"><strong>Saberes básicos:</strong></p>
+<p style="text-align: justify;"><strong>A. El cuerpo y el control progresivo del mismo</strong></p>
+<ul style="text-align: justify;">
+<li>autoimagen ajustada y positiva ante los demás.<strong></strong></li>
+</ul>
+<p style="text-align: justify;"><strong>B. Desarrollo y equilibrio afectivos</strong></p>
+<ul style="text-align: justify;">
+<li>Estrategias de ayuda y colaboración en contextos de juego y rutinas.</li>
+</ul>
+<p style="text-align: justify;"><strong>C. Hábitos de vida saludable para el autocuidado y el cuidado del entorno</strong></p>
+<ul style="text-align: justify;">
+<li>Hábitos y prácticas sostenibles y ecosocialmente responsables relacionadas con la alimentación, la higiene, el descanso, el autocuidado y el cuidado del entorno.</li>
+</ul>
+<p style="text-align: center;"><em>ÁREA 2. DESCUBRIMIENTO Y EXPLORACIÓN DEL ENTORNO</em><em></em></p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.3111%; text-align: center;"><strong>Competencias específicas</strong></td>
+<td style="width: 33.3111%; text-align: center;"><strong>Competencias clave</strong></td>
+<td style="width: 33.3131%; text-align: center;"><strong>Criterios de evaluación</strong></td>
+</tr>
+<tr>
+<td style="width: 33.3111%; text-align: center;">CE 1</td>
+<td style="width: 33.3111%; text-align: center;">STEM, CPSAA, CE</td>
+<td style="width: 33.3131%; text-align: center;">1.4</td>
+</tr>
+<tr>
+<td style="width: 33.3111%; text-align: center;">CE 3</td>
+<td style="width: 33.3111%; text-align: center;">STEM, CPSAA, CC</td>
+<td style="width: 33.3131%; text-align: center;">3.1, 3.2</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: justify;"><strong>Saberes básicos:</strong></p>
+<p style="text-align: justify;"><strong>B. experimentación en el entorno. Curiosidad, pensamiento científico y creatividad</strong></p>
+<ul style="text-align: justify;">
+<li>Estrategias de planificación, organización o autorregulación de tareas.</li>
+<li>Estrategias para proponer soluciones: creatividad, diálogo, imaginación y descubrimiento. </li>
+</ul>
+<p style="text-align: justify;"><strong>C. Indagación en el medio físico y natural. Cuidado, valoración y respeto</strong></p>
+<ul>
+<li style="text-align: justify;">Influencia de las acciones de las personas en el medio físico y en el patrimonio natural.</li>
+<li style="text-align: justify;">Respeto y protección del medio natural.</li>
+<li style="text-align: justify;">Empatía, cuidado y protección de los animales.</li>
+</ul>
+<p style="text-align: center;"><em>ÁREA 3. COMUNICACIÓN Y REPRESENTACIÓN DE LA REALIDAD </em></p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.3111%; text-align: center;"><strong>Competencias específicas</strong></td>
+<td style="width: 33.3111%; text-align: center;"><strong>Competencias clave</strong></td>
+<td style="width: 33.3131%; text-align: center;"><strong>criterios de evaluación</strong></td>
+</tr>
+<tr>
+<td style="width: 33.3111%; text-align: center;">CE 1</td>
+<td style="width: 33.3111%; text-align: center;">CCL, CP, CD, CC</td>
+<td style="width: 33.3131%; text-align: center;">1.2, 1.4</td>
+</tr>
+<tr>
+<td style="width: 33.3111%; text-align: center;">CE 2</td>
+<td style="width: 33.3111%; text-align: center;">CCL, CD, CPSAA, CCEC</td>
+<td style="width: 33.3131%; text-align: center;">2.2</td>
+</tr>
+<tr>
+<td style="width: 33.3111%; text-align: center;">CE3</td>
+<td style="width: 33.3111%; text-align: center;">CCL, CP, CPSAA, CCEC</td>
+<td style="width: 33.3131%; text-align: center;">3.1, 3.7</td>
+</tr>
+<tr>
+<td style="width: 33.3111%; text-align: center;">CE 4</td>
+<td style="width: 33.3111%; text-align: center;">CCL, CCEC</td>
+<td style="width: 33.3131%; text-align: center;">4.1</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: justify;"><strong>Saberes básicos:</strong></p>
+<p style="text-align: justify;"><strong>A. Intención e interacción comunicativas</strong></p>
+<ul style="text-align: justify;">
+<li>Convenciones sociales del intercambio lingüístico en situaciones comunicativa que potencien el respeto y la igualdad: atención, escucha activa, turnos de diálogo y alternancia. </li>
+</ul>
+<p style="text-align: justify;"><strong>B. Las lenguas y sus hablantes</strong></p>
+<ul style="text-align: justify;">
+<li>Fórmulas o expresiones que responden a sus necesidades o intereses.</li>
+</ul>
+<p style="text-align: justify;"><strong>C. Comunicación verbal: expresión, comprensión, diálogo</strong></p>
+<ul style="text-align: justify;">
+<li>El lenguaje oral en situaciones cotidianas: conversaciones, juegos de interacción social y expresión de vivencias. </li>
+<li>Textos orales formales e informales desde una perspectiva coeducativa.</li>
+</ul>
+<p style="text-align: justify;"><strong>D. Aproximación al lenguaje escrito</strong></p>
+<ul style="text-align: justify;">
+<li>Textos escritos en diferentes soportes desde una perspectiva coeducativa.</li>
+<li>Otros códigos de representación gráfica libres de estereotipos: imágenes, símbolos, números...</li>
+</ul>
+<p style="text-align: justify;"><strong>E. Aproximación a la educación literaria</strong></p>
+<ul style="text-align: justify;">
+<li>Textos orales infantiles orales y escritos adecuados al desarrollo infantil, que preferiblemente desarrollen valores sobre cultura de paz, derechos de la infancia, igualdad de género y diversidad funcional y étnico-cultural.</li>
+<li>Conversaciones y diálogos en torno a textos literarios libres de todo tipo de prejuicios y estereotipos.</li>
+</ul>
+<p style="text-align: justify;"><strong>F. El lenguaje y la expresión musicales</strong></p>
+<ul style="text-align: justify;">
+<li>la escucha musical como disfrute. </li>
+<li>Propuestas musicales en distintos formatos, libres de estereotipos sexistas.</li>
+</ul>
+<p style="text-align: justify;"><strong>G. El lenguaje y la expresión plásticas y visuales</strong></p>
+<ul style="text-align: justify;">
+<li>Intención expresiva de producciones plásticas.</li>
+<li>Manifestaciones plásticas variadas con perspectiva coeducativa.</li>
+</ul>
+<p style="text-align: justify;"><strong>H. El lenguaje y la expresión cuturales</strong></p>
+<ul style="text-align: justify;">
+<li> Juegos de expresión corporal y dramática, libres de estereotipos sexistas.</li>
+</ul>
+<p style="text-align: justify;"><strong>I. Alfabetización digital</strong></p>
+<ul>
+<li style="text-align: justify;">Lectura e interpretación crítica de imágenes</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774878408730-rugkkfa20","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">A continuación, se detalla la relación de los elementos curriculares abordados a lo largo de la situación de aprendizaje \"Luna, la elefanta valiente.</p>\n<p style=\"text-align: center;\"><em>ÁREA 1. CRECIMIENTO EN ARMONÍA</em></p>\n<table border=\"1\" style=\"width: 99.9681%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3224%; text-align: center;\"><strong>Competencias específicas</strong></td>\n<td style=\"width: 33.3224%; text-align: center;\"><strong>Competencias clave</strong></td>\n<td style=\"width: 33.3233%; text-align: center;\"><strong>criterios de evaluación</strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.3224%; text-align: center;\">CE 2</td>\n<td style=\"width: 33.3224%; text-align: center;\">CPSAA, CCL</td>\n<td style=\"width: 33.3233%; text-align: center;\">2.1</td>\n</tr>\n<tr>\n<td style=\"width: 33.3224%; text-align: center;\">CE 3</td>\n<td style=\"width: 33.3224%; text-align: center;\">CPSAA, CE</td>\n<td style=\"width: 33.3233%; text-align: center;\">3.1</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: justify;\"><strong>Saberes básicos:</strong></p>\n<p style=\"text-align: justify;\"><strong>A. El cuerpo y el control progresivo del mismo</strong></p>\n<ul style=\"text-align: justify;\">\n<li>autoimagen ajustada y positiva ante los demás.<strong></strong></li>\n</ul>\n<p style=\"text-align: justify;\"><strong>B. Desarrollo y equilibrio afectivos</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Estrategias de ayuda y colaboración en contextos de juego y rutinas.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>C. Hábitos de vida saludable para el autocuidado y el cuidado del entorno</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Hábitos y prácticas sostenibles y ecosocialmente responsables relacionadas con la alimentación, la higiene, el descanso, el autocuidado y el cuidado del entorno.</li>\n</ul>\n<p style=\"text-align: center;\"><em>ÁREA 2. DESCUBRIMIENTO Y EXPLORACIÓN DEL ENTORNO</em><em></em></p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3111%; text-align: center;\"><strong>Competencias específicas</strong></td>\n<td style=\"width: 33.3111%; text-align: center;\"><strong>Competencias clave</strong></td>\n<td style=\"width: 33.3131%; text-align: center;\"><strong>Criterios de evaluación</strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.3111%; text-align: center;\">CE 1</td>\n<td style=\"width: 33.3111%; text-align: center;\">STEM, CPSAA, CE</td>\n<td style=\"width: 33.3131%; text-align: center;\">1.4</td>\n</tr>\n<tr>\n<td style=\"width: 33.3111%; text-align: center;\">CE 3</td>\n<td style=\"width: 33.3111%; text-align: center;\">STEM, CPSAA, CC</td>\n<td style=\"width: 33.3131%; text-align: center;\">3.1, 3.2</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: justify;\"><strong>Saberes básicos:</strong></p>\n<p style=\"text-align: justify;\"><strong>B. experimentación en el entorno. Curiosidad, pensamiento científico y creatividad</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Estrategias de planificación, organización o autorregulación de tareas.</li>\n<li>Estrategias para proponer soluciones: creatividad, diálogo, imaginación y descubrimiento. </li>\n</ul>\n<p style=\"text-align: justify;\"><strong>C. Indagación en el medio físico y natural. Cuidado, valoración y respeto</strong></p>\n<ul>\n<li style=\"text-align: justify;\">Influencia de las acciones de las personas en el medio físico y en el patrimonio natural.</li>\n<li style=\"text-align: justify;\">Respeto y protección del medio natural.</li>\n<li style=\"text-align: justify;\">Empatía, cuidado y protección de los animales.</li>\n</ul>\n<p style=\"text-align: center;\"><em>ÁREA 3. COMUNICACIÓN Y REPRESENTACIÓN DE LA REALIDAD </em></p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3111%; text-align: center;\"><strong>Competencias específicas</strong></td>\n<td style=\"width: 33.3111%; text-align: center;\"><strong>Competencias clave</strong></td>\n<td style=\"width: 33.3131%; text-align: center;\"><strong>criterios de evaluación</strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.3111%; text-align: center;\">CE 1</td>\n<td style=\"width: 33.3111%; text-align: center;\">CCL, CP, CD, CC</td>\n<td style=\"width: 33.3131%; text-align: center;\">1.2, 1.4</td>\n</tr>\n<tr>\n<td style=\"width: 33.3111%; text-align: center;\">CE 2</td>\n<td style=\"width: 33.3111%; text-align: center;\">CCL, CD, CPSAA, CCEC</td>\n<td style=\"width: 33.3131%; text-align: center;\">2.2</td>\n</tr>\n<tr>\n<td style=\"width: 33.3111%; text-align: center;\">CE3</td>\n<td style=\"width: 33.3111%; text-align: center;\">CCL, CP, CPSAA, CCEC</td>\n<td style=\"width: 33.3131%; text-align: center;\">3.1, 3.7</td>\n</tr>\n<tr>\n<td style=\"width: 33.3111%; text-align: center;\">CE 4</td>\n<td style=\"width: 33.3111%; text-align: center;\">CCL, CCEC</td>\n<td style=\"width: 33.3131%; text-align: center;\">4.1</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: justify;\"><strong>Saberes básicos:</strong></p>\n<p style=\"text-align: justify;\"><strong>A. Intención e interacción comunicativas</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Convenciones sociales del intercambio lingüístico en situaciones comunicativa que potencien el respeto y la igualdad: atención, escucha activa, turnos de diálogo y alternancia. </li>\n</ul>\n<p style=\"text-align: justify;\"><strong>B. Las lenguas y sus hablantes</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Fórmulas o expresiones que responden a sus necesidades o intereses.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>C. Comunicación verbal: expresión, comprensión, diálogo</strong></p>\n<ul style=\"text-align: justify;\">\n<li>El lenguaje oral en situaciones cotidianas: conversaciones, juegos de interacción social y expresión de vivencias. </li>\n<li>Textos orales formales e informales desde una perspectiva coeducativa.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>D. Aproximación al lenguaje escrito</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Textos escritos en diferentes soportes desde una perspectiva coeducativa.</li>\n<li>Otros códigos de representación gráfica libres de estereotipos: imágenes, símbolos, números...</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>E. Aproximación a la educación literaria</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Textos orales infantiles orales y escritos adecuados al desarrollo infantil, que preferiblemente desarrollen valores sobre cultura de paz, derechos de la infancia, igualdad de género y diversidad funcional y étnico-cultural.</li>\n<li>Conversaciones y diálogos en torno a textos literarios libres de todo tipo de prejuicios y estereotipos.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>F. El lenguaje y la expresión musicales</strong></p>\n<ul style=\"text-align: justify;\">\n<li>la escucha musical como disfrute. </li>\n<li>Propuestas musicales en distintos formatos, libres de estereotipos sexistas.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>G. El lenguaje y la expresión plásticas y visuales</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Intención expresiva de producciones plásticas.</li>\n<li>Manifestaciones plásticas variadas con perspectiva coeducativa.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>H. El lenguaje y la expresión cuturales</strong></p>\n<ul style=\"text-align: justify;\">\n<li> Juegos de expresión corporal y dramática, libres de estereotipos sexistas.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>I. Alfabetización digital</strong></p>\n<ul>\n<li style=\"text-align: justify;\">Lectura e interpretación crítica de imágenes</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnenkoc3-o9w7lz9h6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnenkoc3-o9w7lz9h6</odePageId>
+      <odeBlockId>block-1774881586878-4qwcltt24</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnenkoc3-o9w7lz9h6</odePageId>
+          <odeBlockId>block-1774881586878-4qwcltt24</odeBlockId>
+          <odeIdeviceId>idevice-1774881586875-pkeg6363i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">A lo largo de esta situación de aprendizaje se emplearán diferentes metodologías activas:</p>
+<ul>
+<li style="text-align: justify;"><strong>Aprendizaje basado en proyectos:</strong> la situación de aprendizaje se desarrolla mediante un proyecto de investigación que permite al alumnado aprender y desarrollar habilidades mediante la exploración, la investigación, trabajando de una manera significativa.</li>
+<li style="text-align: justify;"><strong>Aprendizaje basado en el juego</strong>: el juego adquiere un papel fundamental como herramienta para enseñar conceptos, competencias y habilidades.</li>
+<li style="text-align: justify;"><strong>Visual thinking</strong>: mediante el empleo de organizadores gráficos que permitirán tanto al alumnado como a los docentes comprobar lo que han aprendido. </li>
+<li style="text-align: justify;"><strong>Gamificación</strong>: empleando las técnicas y estrategias propias del juego en el aula. El alumnado ha de superar "retos/desafíos", cumplir "misiones"... todo ello para conseguir "puntos", "premios" y "recompensas"</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774881586875-pkeg6363i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">A lo largo de esta situación de aprendizaje se emplearán diferentes metodologías activas:</p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Aprendizaje basado en proyectos:</strong> la situación de aprendizaje se desarrolla mediante un proyecto de investigación que permite al alumnado aprender y desarrollar habilidades mediante la exploración, la investigación, trabajando de una manera significativa.</li>\n<li style=\"text-align: justify;\"><strong>Aprendizaje basado en el juego</strong>: el juego adquiere un papel fundamental como herramienta para enseñar conceptos, competencias y habilidades.</li>\n<li style=\"text-align: justify;\"><strong>Visual thinking</strong>: mediante el empleo de organizadores gráficos que permitirán tanto al alumnado como a los docentes comprobar lo que han aprendido. </li>\n<li style=\"text-align: justify;\"><strong>Gamificación</strong>: empleando las técnicas y estrategias propias del juego en el aula. El alumnado ha de superar \"retos/desafíos\", cumplir \"misiones\"... todo ello para conseguir \"puntos\", \"premios\" y \"recompensas\"</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnenkoc5-bfs1wh6s0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnenkoc5-bfs1wh6s0</odePageId>
+      <odeBlockId>block-1774882049389-lb7udqndd</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnenkoc5-bfs1wh6s0</odePageId>
+          <odeBlockId>block-1774882049389-lb7udqndd</odeBlockId>
+          <odeIdeviceId>idevice-1774882049387-wn1elg4j2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La SA "Luna, la elefanta valiente" aborda de manera transversal las ideas planteadas en los proyectos y programas del centro, tal y como se detalla a continuación:</p>
+<ul style="text-align: justify;">
+<li><strong>Programa de Atención a la Diversidad (PAD)</strong>: se ofrece una respuesta individualizada a alumnado, adaptando las actividades a sus necesidades. Del mismo modo, se tienen en cuenta los tres principios del DUA.</li>
+<li><strong>Programa de Acción Tutorial (PAT)</strong>: se promueven habilidades sociales, el desarrollo de hábitos de respeto por el medio ambiente, el desarrollo intelectual, entre otros aspectos. No obstante, también desde este programa se establecen las vías de comunicación con las familias.</li>
+<li><strong>Programa de Orientación para el Desarrollo de la Carrera (PODC)</strong>: se favorece la toma de decisiones, la importancia de la constancia, del esfuerzo, el desarrollo del autoconcepto o el trabajo de la mujer en la ciencia.  </li>
+<li><strong>Plan de Coeducación:</strong> se promueven los principios de igualdad y respeto, eliminando estereotipos sexistas. Para ello, abordaremos este centro de interés de una manera coeducativa.</li>
+<li><strong>Plan de Lectura, Escritura e Investigación (PLEI)</strong>: se acerca al alumnado a la escritura manipulativa mediante diferentes actividades y se disfruta de la narración de cuentos. </li>
+<li><strong>Plan Integral de Convivencia (PIC):</strong> se fomentará un clima adecuado en el que se desarrollen las relaciones en igualdad, valorando la importancia de la amistad y la resolución pacífica de los conflictos. En el aula, emplearemos agrupamiento variados.</li>
+<li><strong>Programa de Bienestar Emocional:</strong> se velará por la salud tanto física como mental del alumnado, para ello, se promoverá el sentimiento de pertenencia al grupo-aula, la expresión de las emociones, entre otros. </li>
+<li><strong>Programa de Actividades Complementarias y Extraescolares (PACE):</strong> se desarrollarán salidas complementarias, disfrutaremos de visitas al aula o la celebración de efemérides.  </li>
+<li><strong>Plan Digital de centro:</strong> se promueve la competencia digital a lo largo del proceso de enseñanza y aprendizaje, por ejemplo, empleando diferentes metodologías.</li>
+</ul>
+<p style="text-align: justify;"></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774882049387-wn1elg4j2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La SA \"Luna, la elefanta valiente\" aborda de manera transversal las ideas planteadas en los proyectos y programas del centro, tal y como se detalla a continuación:</p>\n<ul style=\"text-align: justify;\">\n<li><strong>Programa de Atención a la Diversidad (PAD)</strong>: se ofrece una respuesta individualizada a alumnado, adaptando las actividades a sus necesidades. Del mismo modo, se tienen en cuenta los tres principios del DUA.</li>\n<li><strong>Programa de Acción Tutorial (PAT)</strong>: se promueven habilidades sociales, el desarrollo de hábitos de respeto por el medio ambiente, el desarrollo intelectual, entre otros aspectos. No obstante, también desde este programa se establecen las vías de comunicación con las familias.</li>\n<li><strong>Programa de Orientación para el Desarrollo de la Carrera (PODC)</strong>: se favorece la toma de decisiones, la importancia de la constancia, del esfuerzo, el desarrollo del autoconcepto o el trabajo de la mujer en la ciencia.  </li>\n<li><strong>Plan de Coeducación:</strong> se promueven los principios de igualdad y respeto, eliminando estereotipos sexistas. Para ello, abordaremos este centro de interés de una manera coeducativa.</li>\n<li><strong>Plan de Lectura, Escritura e Investigación (PLEI)</strong>: se acerca al alumnado a la escritura manipulativa mediante diferentes actividades y se disfruta de la narración de cuentos. </li>\n<li><strong>Plan Integral de Convivencia (PIC):</strong> se fomentará un clima adecuado en el que se desarrollen las relaciones en igualdad, valorando la importancia de la amistad y la resolución pacífica de los conflictos. En el aula, emplearemos agrupamiento variados.</li>\n<li><strong>Programa de Bienestar Emocional:</strong> se velará por la salud tanto física como mental del alumnado, para ello, se promoverá el sentimiento de pertenencia al grupo-aula, la expresión de las emociones, entre otros. </li>\n<li><strong>Programa de Actividades Complementarias y Extraescolares (PACE):</strong> se desarrollarán salidas complementarias, disfrutaremos de visitas al aula o la celebración de efemérides.  </li>\n<li><strong>Plan Digital de centro:</strong> se promueve la competencia digital a lo largo del proceso de enseñanza y aprendizaje, por ejemplo, empleando diferentes metodologías.</li>\n</ul>\n<p style=\"text-align: justify;\"></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnenkoc7-wwwja3e2c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnenkoc7-wwwja3e2c</odePageId>
+      <odeBlockId>block-1774883358234-en3txa46r</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnenkoc7-wwwja3e2c</odePageId>
+          <odeBlockId>block-1774883358234-en3txa46r</odeBlockId>
+          <odeIdeviceId>idevice-1774883358232-mzlszp5ik</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Durante el desarrollo de esta situación de aprendizaje disfrutaremos de las siguientes actividades complementarias:</p>
+<ul>
+<li style="text-align: justify;"><strong>Celebración del carnaval</strong>: el alumnado se disfrazará de elefantes para disfrutar del carnaval en el colegio.</li>
+<li style="text-align: justify;"><strong>Visita al centro:</strong> disfrutaremos de la visita al centro de una protectora de animales, donde se abordará la importancia del cuidado de los animales y la prevención tanto del maltrato como del abandono animal. </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774883358232-mzlszp5ik","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Durante el desarrollo de esta situación de aprendizaje disfrutaremos de las siguientes actividades complementarias:</p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Celebración del carnaval</strong>: el alumnado se disfrazará de elefantes para disfrutar del carnaval en el colegio.</li>\n<li style=\"text-align: justify;\"><strong>Visita al centro:</strong> disfrutaremos de la visita al centro de una protectora de animales, donde se abordará la importancia del cuidado de los animales y la prevención tanto del maltrato como del abandono animal. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnenkoc8-57rpc0c96</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Atribución y descarga</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnenkoc8-57rpc0c96</odePageId>
+      <odeBlockId>block-1774956523135-jb62anv3r</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnenkoc8-57rpc0c96</odePageId>
+          <odeBlockId>block-1774956523135-jb62anv3r</odeBlockId>
+          <odeIdeviceId>idevice-1774956523132-pi6gvty9k</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SA: Luna, la elefanta valiente</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">SA: Luna, la elefante valiente</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Alba Delgado Díaz</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
